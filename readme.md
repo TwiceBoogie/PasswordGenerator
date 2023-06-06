@@ -10,6 +10,10 @@ This Python 3 project is a command-line tool that generates passwords for differ
 - Decryption: Users can decrypt the password.json file and view or save the passwords in a table format.
 - Table display: Generated passwords can be displayed in a table format in the console.
 
+## Images
+![Screenshot 2023-06-06 at 11 34 00 AM](https://github.com/TwiceBoogie/PasswordGenerator/assets/81591971/940e6495-aef3-468f-9a32-0d2bc49ccba3)
+
+
 ## Requirements
 
 - Python 3.x
